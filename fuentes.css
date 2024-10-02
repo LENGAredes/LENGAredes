@@ -1,0 +1,22 @@
+@font-face
+{
+   font-family: "Cocogoose Pro Light-trial";
+   src: url("fuentes/Cocogoose Pro Light-trial.eot");
+   src: url("fuentes/Cocogoose Pro Light-trial.eot") format("embedded-opentype"),
+        url("fuentes/Cocogoose Pro Light-trial.woff") format("woff"),
+        url("fuentes/Cocogoose Pro Light-trial.ttf") format("truetype"),
+        url("fuentes/Cocogoose Pro Light-trial.svg") format("svg");
+}
+
+
+
+
+@font-face
+{
+   font-family: "Embossed_Black_Wide-webfont";
+   src: url("fuentes/Embossed_Black_Wide-webfont.eot");
+   src: url("fuentes/Embossed_Black_Wide-webfont.eot") format("embedded-opentype"),
+        url("fuentes/Embossed_Black_Wide-webfont.woff") format("woff"),
+        url("fuentes/Embossed_Black_Wide-webfont.ttf") format("truetype"),
+        url("fuentes/Embossed_Black_Wide-webfont.svg") format("svg");
+}
